@@ -1,0 +1,207 @@
+﻿,CADDID,FacilityName,City,County,Latitude,Longitude,StreetAddress,MilkCows,HerdSizeRange,HasDigester,ClusterID
+1,11290,S & S Dairy Inc,Ceres,Stanislaus,37.5222,-120.9895,348 East Monte Vista Road,1950,Small-Mid (1000-2000),TRUE,0
+2,10021,Albert Mendes Dairy,Crows Landing,Stanislaus,37.4852,-121.0086,1100 Ruble Road,1400,Small-Mid (1000-2000),TRUE,0
+3,10217,Dores Dairy,Stevinson,Merced,37.3354,-120.9025,22846 West Second Avenue,1305,Small-Mid (1000-2000),TRUE,0
+4,11312,K & R Blount Dairy,Crows Landing,Stanislaus,37.4854,-121.0033,624 Ruble Road,1240,Small-Mid (1000-2000),TRUE,0
+5,11129,Joe Oliveira Dairy,Hilmar,Merced,37.3823,-120.8331,18900 Crane Avenue,1200,Small-Mid (1000-2000),TRUE,0
+6,11275,"Ackerman Dairy, Inc.",Ceres,Stanislaus,37.5368,-120.9561,6934 Central Avenue,1200,Small-Mid (1000-2000),TRUE,0
+7,11446,John Brasil Dairy #1,Turlock,Stanislaus,37.4686,-120.94,2613 South Mitchell Road,1155,Small-Mid (1000-2000),TRUE,0
+8,11311,A&C Machado,Crows Landing,Stanislaus,37.4858,-121.0047,825 Ruble Road,1085,Small-Mid (1000-2000),TRUE,0
+9,11525,Nyman Brothers Dairy,Hilmar,Merced,37.4187,-120.8573,20445 August Avenue,1025,Small-Mid (1000-2000),TRUE,0
+10,11308,Moonshine Dairy,Crows Landing,Stanislaus,37.3966,-121.015,22922 Kilburn Road,2000,Small-Mid (1000-2000),FALSE,0
+11,11513,Yosemite Jersey Dairy,Hilmar,Merced,37.4005,-120.8799,21522 Geer Avenue,1840,Small-Mid (1000-2000),FALSE,0
+12,10555,Lumar Dairy Farms,Turlock,Stanislaus,37.4271,-120.9317,7215 South Prairie Flower Road,1750,Small-Mid (1000-2000),FALSE,0
+13,11387,Tony Morris Dairy,Modesto,Stanislaus,37.5416,-121.0405,6506 Vivian Road,1700,Small-Mid (1000-2000),FALSE,0
+14,11146,B-6 Dairy,Hilmar,Merced,37.372,-120.8878,22014 Turner Avenue,1652,Small-Mid (1000-2000),FALSE,0
+15,11358,Martins Bros Dairy,Hilmar,Merced,37.3776,-120.9595,6041 Central Avenue,1639,Small-Mid (1000-2000),FALSE,0
+16,11549,Dairy Central,Hilmar,Merced,37.3849,-120.9547,6626 North Central Avenue,1600,Small-Mid (1000-2000),FALSE,0
+17,11202,Michael Brasil Dairy,Stevinson,Merced,37.3448,-120.8196,18254 First Avenue,1578,Small-Mid (1000-2000),FALSE,0
+18,11138,AJ Borba Holsteins,Hilmar,Merced,37.3768,-120.9452,6480 Mitchell Road,1413,Small-Mid (1000-2000),FALSE,0
+19,10018,Alamo Dairy,Crows Landing,Stanislaus,37.5076,-121.013,1500 Fulkerth Road,1400,Small-Mid (1000-2000),FALSE,0
+20,10082,Silva Dairy Farms,Stevinson,Merced,37.309,-120.8963,1497 Edminster Road,1400,Small-Mid (1000-2000),FALSE,0
+21,11489,Germano Soares Dairy #1,Turlock,Stanislaus,37.4268,-120.9538,9201 Hilmar Road,1320,Small-Mid (1000-2000),FALSE,0
+22,11540,Joe O Rocha Dairy Inc.,Turlock,Merced,37.4478,-120.8211,18451 East Bradbury Road,1315,Small-Mid (1000-2000),FALSE,0
+23,11145,GM Silva Dairies #1,Hilmar,Merced,37.3716,-120.8641,20633 Turner Avenue,1295,Small-Mid (1000-2000),FALSE,0
+24,11517,Sunwest Jersey Dairy,Hilmar,Merced,37.4072,-120.8911,22270 Bloss Avenue,1282,Small-Mid (1000-2000),FALSE,0
+25,11281,Double D Jerseys/Chateau Basque Jerseys,Ceres,Stanislaus,37.5121,-120.9787,937  El Katrina Lane,1250,Small-Mid (1000-2000),FALSE,0
+26,11445,Machado Dairy,Turlock,Stanislaus,37.4242,-120.9405,7413 South Mitchell Road,1250,Small-Mid (1000-2000),FALSE,0
+27,11455,Silva's Holsteins,Turlock,Stanislaus,37.4295,-120.9266,6706 Elaine Road,1233,Small-Mid (1000-2000),FALSE,0
+28,10006,A & M De Sousa Dairy,Turlock,Stanislaus,37.4656,-120.9558,3030 South Central Avenue,1212,Small-Mid (1000-2000),FALSE,0
+29,11349,California Dairy Farms (CDF) Hilmar (formerly River Rock Ranches LLC),Hilmar,Merced,37.4114,-120.8153,18128 American Avenue,1200,Small-Mid (1000-2000),FALSE,0
+30,11422,Live Oak Dairy G,Turlock,Stanislaus,37.4949,-120.9854,730 Bystrum Rd,1200,Small-Mid (1000-2000),FALSE,0
+31,11217,Jose & Teresa Soares Dairy #1,Turlock,Merced,37.4562,-120.7762,11076 North Vincent Road,1125,Small-Mid (1000-2000),FALSE,0
+32,11350,Larry B. Peterson Dairy,Hilmar,Merced,37.4116,-120.8718,21189 American Avenue,1119,Small-Mid (1000-2000),FALSE,0
+33,11443,Carl & Laurie Vieira Dairies,Turlock,Stanislaus,37.5026,-120.9403,1000 North Mitchell Road,1100,Small-Mid (1000-2000),FALSE,0
+34,11305,Edelweiss Dairy,Crows Landing,Stanislaus,37.5047,-121.0341,2306 West Fulkerth Road,1050,Small-Mid (1000-2000),FALSE,0
+35,11438,Roestar Dairy,Turlock,Stanislaus,37.4506,-120.9673,10407 West Bradbury Road,1019,Small-Mid (1000-2000),FALSE,0
+36,11302,A. Vitoria Dairy,Crows Landing,Stanislaus,37.4324,-121.0124,14014 Crows Landing Road,1015,Small-Mid (1000-2000),FALSE,0
+37,11024,Little Rock Dairy,Tipton,Tulare,36.0401,-119.3958,13955 Road 80,1935,Small-Mid (1000-2000),TRUE,4
+38,10899,Schott Dairy,Tipton,Tulare,36.0393,-119.3532,13602 Road 96,1833,Small-Mid (1000-2000),TRUE,4
+39,11025,Rib-Arrow Dairy,Tulare,Tulare,36.1212,-119.2706,18287 Road 136,1500,Small-Mid (1000-2000),TRUE,4
+40,10142,Elk Creek Dairy,Tulare,Tulare,36.1164,-119.3579,17993 ROAD 96,1437,Small-Mid (1000-2000),TRUE,4
+41,10462,LEGENDAIRY FARMS,Tipton,Tulare,36.0567,-119.3599,14685 Road 96,1414,Small-Mid (1000-2000),TRUE,4
+42,10800,Legacy Holsteins,Tipton,Tulare,36.0337,-119.4073,13510 Road 72,1193,Small-Mid (1000-2000),TRUE,4
+43,10748,Top O' The Morn Farms,Tulare,Tulare,36.1035,-119.2666,17324 Road 136,1155,Small-Mid (1000-2000),TRUE,4
+44,10435,Brian James Jongsma Dairy,Tipton,Tulare,36.0825,-119.4268,16017 Road 64,1969,Small-Mid (1000-2000),FALSE,4
+45,10895,Vander Tuig Dairy,Strathmore,Tulare,36.1549,-119.2091,20127 Road 164,1950,Small-Mid (1000-2000),FALSE,4
+46,10547,Lou-Mar Dairy,Tipton,Tulare,36.0659,-119.2402,14870 Avenue 152,1905,Small-Mid (1000-2000),FALSE,4
+47,10928,Avenue 128 Dairy,Tipton,Tulare,36.0199,-119.2814,12977 Macomber Road,1740,Small-Mid (1000-2000),FALSE,4
+48,10878,Triple H Dairy #1,Tulare,Tulare,36.1723,-119.2753,13255 Avenue 212,1725,Small-Mid (1000-2000),FALSE,4
+49,10374,Heritage Dairy,Tulare,Tulare,36.1378,-119.2199,15651 Avenue 192 Avenue,1657,Small-Mid (1000-2000),FALSE,4
+50,10576,Mancebo Holsteins,Tulare,Tulare,36.21,-119.2385,14891 Ave 232,1650,Small-Mid (1000-2000),FALSE,4
+51,11669,DE GROOT DAIRY #1,Lindsay,Tulare,36.2072,-119.1915,17408 AVENUE 232,1620,Small-Mid (1000-2000),FALSE,4
+52,10396,Tristar Dairy,Tulare,Tulare,36.1117,-119.2973,12212 Avenue 176,1575,Small-Mid (1000-2000),FALSE,4
+53,10276,Five Star Dairy,Tipton,Tulare,36.0661,-119.2465,14552 Avenue 152,1559,Small-Mid (1000-2000),FALSE,4
+54,10352,Blue Moon Farms,Tipton,Tulare,36.0289,-119.3987,13213 Road 80,1542,Small-Mid (1000-2000),FALSE,4
+55,10870,VP Farms Dairy,Tulare,Tulare,36.0708,-119.3602,15503 Road 96,1507,Small-Mid (1000-2000),FALSE,4
+56,10102,FM Ranch #5,Tipton,Tulare,36.0608,-119.3959,14913 Road 80,1491,Small-Mid (1000-2000),FALSE,4
+57,10079,Jesse & James Jongsma Dairy,Tipton,Tulare,36.0537,-119.4188,6780 Avenue 144,1447,Small-Mid (1000-2000),FALSE,4
+58,10093,Borges Dairy,Tipton,Tulare,36.0868,-119.2684,16371 Road 136,1421,Small-Mid (1000-2000),FALSE,4
+59,10860,Fernridge Farms,Tulare,Tulare,36.1523,-119.3116,11679 Avenue 200,1408,Small-Mid (1000-2000),FALSE,4
+60,10867,Cream Top Dairy,Tulare,Tulare,36.1526,-119.2789,13075 Avenue 200,1323,Small-Mid (1000-2000),FALSE,4
+61,11003,Western Pacific Dairy,Pixley,Tulare,36.0077,-119.2393,14854 Avenue 120,1301,Small-Mid (1000-2000),FALSE,4
+62,10786,John Jongsma Dairy/William John Jongsma Dairy #2,Tulare,Tulare,36.1402,-119.227,15434 Avenue 192,1297,Small-Mid (1000-2000),FALSE,4
+63,10713,Pires Dairy,Tipton,Tulare,36.0675,-119.2703,13464 Ave 152,1274,Small-Mid (1000-2000),FALSE,4
+64,10191,Frank Borba & Sons Dairy #3,Porterville,Tulare,36.047,-119.197,14153 Road 168,1272,Small-Mid (1000-2000),FALSE,4
+65,10461,Joe Simoes Family Dairy,Tipton,Tulare,36.0333,-119.2683,13441 Road 136,1260,Small-Mid (1000-2000),FALSE,4
+66,10137,Chris De Jong Dairy,Porterville,Tulare,36.0575,-119.1972,14763 Road 168,1243,Small-Mid (1000-2000),FALSE,4
+67,10705,Pete Vander Poel Dairy,Tulare,Tulare,36.1439,-119.2612,19493 Road 140,1204,Small-Mid (1000-2000),FALSE,4
+68,11010,Lawrence Family Farms/Bar DR Dairy,Tulare,Tulare,36.1696,-119.2449,14760 Avenue 208,1184,Small-Mid (1000-2000),FALSE,4
+69,10810,Pacific Sun Dairy,Tipton,Tulare,36.0511,-119.3689,9086 Avenue 144,1170,Small-Mid (1000-2000),FALSE,4
+70,10653,SIMOES SANDLIN FAMILY FARMS DAIRY,Tulare,Tulare,36.1238,-119.3417,10248 Avenue 184,1113,Small-Mid (1000-2000),FALSE,4
+71,10052,GTA Dairy,Tulare,Tulare,36.0989,-119.21,16197 Avenue 172,1059,Small-Mid (1000-2000),FALSE,4
+72,10717,Four J Jerseys Dairy #2,Tipton,Tulare,36.0817,-119.4086,7480 Avenue 160,1053,Small-Mid (1000-2000),FALSE,4
+73,10672,Nunes Bros. Dairy,Tulare,Tulare,36.1599,-119.2956,20439 Road 124,1000,Small-Mid (1000-2000),FALSE,4
+74,10686,Pacheco & Fagundes Dairy,Lindsay,Tulare,36.2137,-119.1715,23260 Road 180,1000,Small-Mid (1000-2000),FALSE,4
+75,10294,Arthur Leyendekker Dairy,Visalia,Tulare,36.4416,-119.3619,9001 Avenue 360,1600,Small-Mid (1000-2000),TRUE,5
+76,10058,Jacobus DeGroot Dairy #2,Visalia,Tulare,36.3793,-119.3428,10438 Avenue 320,1243,Small-Mid (1000-2000),TRUE,5
+77,10315,G-P Dairy,Visalia,Tulare,36.4441,-119.3791,8676 Avenue 360,1135,Small-Mid (1000-2000),TRUE,5
+78,10344,Griffioen Dairy LP,Dinuba,Tulare,36.4582,-119.398,7901 Avenue 368,1768,Small-Mid (1000-2000),FALSE,5
+79,10150,De Jong Dairy Farms Inc.,Visalia,Tulare,36.4565,-119.2802,13076 Avenue 368,1766,Small-Mid (1000-2000),FALSE,5
+80,10945,"Tri BAK Dairy, LLC",Dinuba,Tulare,36.4579,-119.3716,9045 Avenue 368,1673,Small-Mid (1000-2000),FALSE,5
+81,10654,Milk Maid Dairy,Visalia,Tulare,36.4404,-119.3487,35826 Road 100,1613,Small-Mid (1000-2000),FALSE,5
+82,10202,Dennis Boertje & Son Dairy,Visalia,Tulare,36.4691,-119.2768,37404 Road 132,1608,Small-Mid (1000-2000),FALSE,5
+83,10662,L & L Dairy Farms,Kingsburg,Tulare,36.4434,-119.4041,7435 Avenue 360,1550,Small-Mid (1000-2000),FALSE,5
+84,10647,Mountain View Dairy,Visalia,Tulare,36.4658,-119.25,37248 Road 144,1526,Small-Mid (1000-2000),FALSE,5
+85,11054,Jacobus Degroot Dairy #1,Visalia,Tulare,36.3681,-119.3699,31847 Road 92,1276,Small-Mid (1000-2000),FALSE,5
+86,10348,Golden West Dairy,Visalia,Tulare,36.4269,-119.3042,12031 Avenue 352,1124,Small-Mid (1000-2000),FALSE,5
+87,10371,East View Dairy,Visalia,Tulare,36.4288,-119.3396,10485 Avenue 352,1046,Small-Mid (1000-2000),FALSE,5
+88,10737,Red Rose Dairy,Visalia,Tulare,36.444,-119.3737,8950 Avenue 360,1023,Small-Mid (1000-2000),FALSE,5
+89,11031,Sunrise Dairy,Dinuba,Tulare,36.462,-119.3933,8022 Avenue 368,1000,Small-Mid (1000-2000),FALSE,5
+90,10250,Valadao Dairy,Hanford,Kings,36.2215,-119.6278,17293 9 1/2 Avenue,1974,Small-Mid (1000-2000),TRUE,6
+91,10745,Rio Blanco Dairy,Tulare,Tulare,36.1356,-119.458,5041 Avenue 192,1950,Small-Mid (1000-2000),TRUE,6
+92,10267,Felicita Dairy,Tulare,Kings,36.1441,-119.5299,22154 Road 20,1900,Small-Mid (1000-2000),TRUE,6
+93,10544,High Roller Dairy,Hanford,Kings,36.258,-119.6013,14782 8th Avenue,1828,Small-Mid (1000-2000),TRUE,6
+94,10080,Moonstone Dairy,Hanford,Kings,36.283,-119.4796,1305 Iona Avenue,1811,Small-Mid (1000-2000),TRUE,6
+95,10879,Brasil's Udder Dairy,Visalia,Tulare,36.311,-119.4499,28723 Road 56,1200,Small-Mid (1000-2000),TRUE,6
+96,11011,DDW Farms LLC Dairy,Tulare,Tulare,36.2367,-119.495,24643 Road 36,1861,Small-Mid (1000-2000),FALSE,6
+97,10198,Delta View Farms Dairy,Visalia,Tulare,36.3414,-119.4644,4845 Avenue 304,1800,Small-Mid (1000-2000),FALSE,6
+98,10426,Back Road Dairy,Tulare,Tulare,36.1895,-119.5111,22081 Road 28,1707,Small-Mid (1000-2000),FALSE,6
+99,10482,Cowlifornia Dairy LLC,Hanford,Kings,36.3303,-119.5261,3742 Lacey Boulevard,1656,Small-Mid (1000-2000),FALSE,6
+100,10350,Hynes Dairy,Tulare,Tulare,36.2492,-119.4005,4497 North Colpien Road,1560,Small-Mid (1000-2000),FALSE,6
+101,10876,DeGroot Dairy North,Hanford,Kings,36.349,-119.5002,2446 Grangeville Boulevard,1549,Small-Mid (1000-2000),FALSE,6
+102,10259,Endeavor Gold Dairy,Tulare,Tulare,36.1803,-119.5111,21573 Road 28,1509,Small-Mid (1000-2000),FALSE,6
+103,10659,Costa / Brasil Dairy,Visalia,Tulare,36.3185,-119.4468,29134 Road 56,1500,Small-Mid (1000-2000),FALSE,6
+104,10920,West Creek Dairy,Hanford,Kings,36.3567,-119.5441,8409 5th Avenue,1389,Small-Mid (1000-2000),FALSE,6
+105,10677,Oakview Dairy,Tulare,Tulare,36.2101,-119.4232,6775 AVENUE 232,1347,Small-Mid (1000-2000),FALSE,6
+106,10422,Westwood Farms LLC (Dairy),Tulare,Tulare,36.2044,-119.4336,6194 Avenue 228,1335,Small-Mid (1000-2000),FALSE,6
+107,11006,MS Monteiro Dairy,Tulare,Tulare,36.2014,-119.4953,3515 Avenue 228,1315,Small-Mid (1000-2000),FALSE,6
+108,11664,Manuel Leal & Son Dairy,Tulare,Tulare,36.1686,-119.4245,6500 AVENUE 208,1300,Small-Mid (1000-2000),FALSE,6
+109,10467,Joe V. Pimentel Dairy,Hanford,Kings,36.4069,-119.5648,4625 6th Avenue,1293,Small-Mid (1000-2000),FALSE,6
+110,10936,Willow Grove Farms Dairy,Hanford,Kings,36.3827,-119.5469,6267 5th Avenue,1291,Small-Mid (1000-2000),FALSE,6
+111,10413,Jaques & Silva Dairy,Hanford,Kings,36.3276,-119.571,6269 Lacey Blvd,1215,Small-Mid (1000-2000),FALSE,6
+112,10387,Holland's Dairy,Hanford,Kings,36.3423,-119.5217,3533 Grangeville Boulevard,1214,Small-Mid (1000-2000),FALSE,6
+113,10121,C. Mattos & Sons Dairy,Hanford,Kings,36.2158,-119.5296,17800 4th Avenue,1208,Small-Mid (1000-2000),FALSE,6
+114,10469,Sozinho Dairy #1,Hanford,Kings,36.3067,-119.6099,11447 8 1/2 Avenue,1200,Small-Mid (1000-2000),FALSE,6
+115,10772,SBS Ag Dairy,Tulare,Tulare,36.1586,-119.4125,7123 Avenue 204,1150,Small-Mid (1000-2000),FALSE,6
+116,10840,Terra Linda Dairy,Tulare,Tulare,36.209,-119.4728,4433 Avenue 232,1100,Small-Mid (1000-2000),FALSE,6
+117,10446,Joe B. Pacheco Dairy,Hanford,Kings,36.2398,-119.5741,16025 6 1/2 Avenue,1090,Small-Mid (1000-2000),FALSE,6
+118,10543,"Jackson Dairy, LLC",Hanford,Kings,36.2532,-119.6126,8637 Jackson Avenue,1087,Small-Mid (1000-2000),FALSE,6
+119,10991,Sozinho Dairy #5,Hanford,Kings,36.2988,-119.5869,7205 Houston Avenue,1085,Small-Mid (1000-2000),FALSE,6
+120,10512,Sozinho Jerseys Dairy,Hanford,Kings,36.401,-119.5392,4615 Excelsior Avenue,1050,Small-Mid (1000-2000),FALSE,6
+121,10988,Joaquim Mattos & Family Dairy,Hanford,Kings,36.2133,-119.5448,4790 Kansas Avenue,1040,Small-Mid (1000-2000),FALSE,6
+122,10372,Henry Veenendaal Dairy,Hanford,Kings,36.2993,-119.5261,3678 Houston Avenue,1010,Small-Mid (1000-2000),FALSE,6
+123,11671,ROCKING HORSE DAIRY LLC,HANFORD,Kings,36.1664,-119.6948,21014 13TH AVENUE,1750,Small-Mid (1000-2000),TRUE,9
+124,10281,Top Line Dairy #1,Hanford,Kings,36.2059,-119.6917,18386 13th Ave,1930,Small-Mid (1000-2000),FALSE,9
+125,11501,Top Line Dairy #2,Hanford,Kings,36.2009,-119.6854,18705 13th Ave,1700,Small-Mid (1000-2000),FALSE,9
+126,10871,Vaca Linda Dairy,Hanford,Kings,36.2252,-119.7116,14315 Kent Avenue,1475,Small-Mid (1000-2000),FALSE,9
+127,10274,Fiscalini Farms,Modesto,Stanislaus,37.7095,-121.1324,4848 Jackson Road,1475,Small-Mid (1000-2000),TRUE,11
+128,10317,Roest Family Dairy,Modesto,Stanislaus,37.6732,-121.1592,2472 Gates Road,1025,Small-Mid (1000-2000),FALSE,11
+129,10327,Double G Dairy,Modesto,Stanislaus,37.6598,-121.1143,6555 Blue Gum Road,1000,Small-Mid (1000-2000),FALSE,11
+130,11190,Fred Melo Dairy,Merced,Merced,37.2684,-120.6016,1319 South Quinley Avenue,1907,Small-Mid (1000-2000),TRUE,12
+131,11189,Manuel Oliveira Dairy,Merced,Merced,37.2793,-120.5643,4235 Oak Avenue,1145,Small-Mid (1000-2000),FALSE,12
+132,10460,Eugenio Azevedo Dairy #1,Merced,Merced,37.2802,-120.5835,5217 Oak Avenue,1135,Small-Mid (1000-2000),FALSE,12
+133,11537,Carlos C. Lourenco Dairy,Merced,Merced,37.2802,-120.6073,6558 Oak Avenue,1090,Small-Mid (1000-2000),FALSE,12
+134,11033,Fern Oak Farms Dairy,Porterville,Tulare,36.0779,-119.1936,17001 Avenue 160,3492,Mid (2000-3500),TRUE,17
+135,10674,Northstar Dairy,Tipton,Tulare,36.0185,-119.2487,12718 Road 144,3217,Mid (2000-3500),TRUE,17
+136,10056,Aukeman Farms,Tulare,Tulare,36.1049,-119.3661,17297 Road 96,3140,Mid (2000-3500),TRUE,17
+137,10187,De Boer Dairy,Tulare,Tulare,36.0936,-119.2389,14976 Avenue 168,3043,Mid (2000-3500),TRUE,17
+138,10740,Ribeiro Dairy,Tulare,Tulare,36.1157,-119.2887,17983 Road 128,3000,Mid (2000-3500),TRUE,17
+139,10377,Hettinga Farms Dairy,Pixley,Tulare,36.0095,-119.2727,13400 Avenue 120,2953,Mid (2000-3500),TRUE,17
+140,10977,FM Jerseys Dairy,Tipton,Tulare,36.0845,-119.2952,16301 Road 124,2794,Mid (2000-3500),TRUE,17
+141,10177,Dairyland Farms Dairy,Tipton,Tulare,36.0784,-119.2284,15982 Road 152,2611,Mid (2000-3500),TRUE,17
+142,11026,Mario Simoes Family Dairy,Tipton,Tulare,36.0347,-119.279,13185 Avenue 136,2591,Mid (2000-3500),TRUE,17
+143,10886,Van Beek Brothers Dairy,Tipton,Tulare,36.0604,-119.2294,14808 Road 152,2550,Mid (2000-3500),TRUE,17
+144,11001,Four J Farms Dairy,Pixley,Tulare,35.9926,-119.3052,1223 West Stanford Avenue,2496,Mid (2000-3500),TRUE,17
+145,10252,El Monte Dairy,Tipton,Tulare,36.084,-119.3395,10410 Avenue 160,2010,Mid (2000-3500),TRUE,17
+146,10172,D & V Dairy,Tipton,Tulare,36.0499,-119.2188,15625 Avenue 144,3401,Mid (2000-3500),FALSE,17
+147,10240,Dick Vanderham Dairy,Tipton,Tulare,36.064,-119.2885,12565 Avenue 152,2632,Mid (2000-3500),FALSE,17
+148,10930,Will De Groot Dairy,Pixley,Tulare,35.9767,-119.2276,15417 Avenue 104,2471,Mid (2000-3500),FALSE,17
+149,10424,James Jongsma Dairy,Pixley,Tulare,35.9567,-119.2106,9229 Road 164,2447,Mid (2000-3500),FALSE,17
+150,11027,Louie de Groot Dairy,Pixley,Tulare,35.9774,-119.2354,15081 Avenue 104,2358,Mid (2000-3500),FALSE,17
+151,10084,William John Jongsma Dairy,Pixley,Tulare,35.9993,-119.2301,11598 Road 152,2340,Mid (2000-3500),FALSE,17
+152,10421,DG Farms,Pixley,Tulare,35.9622,-119.2277,15419 Avenue 96,2183,Mid (2000-3500),FALSE,17
+153,10136,Chris & John Jongsma Dairy,Tipton,Tulare,36.0205,-119.2205,15759 Avenue 128,2120,Mid (2000-3500),FALSE,17
+154,10519,LegenDairy West,Tipton,Tulare,36.0616,-119.382,8509 AVENUE 152,2103,Mid (2000-3500),FALSE,17
+155,11673,MINERAL KING DAIRY,VISALIA,Tulare,36.4102,-119.3422,33803 ROAD 108,3240,Mid (2000-3500),TRUE,18
+156,10098,Rancho Sierra Vista Dairy,Visalia,Tulare,36.3881,-119.3303,32866 Road 108,2535,Mid (2000-3500),TRUE,18
+157,11012,Mellema Dairy,Visalia,Tulare,36.3742,-119.3607,9420 Avenue 320,2160,Mid (2000-3500),TRUE,18
+158,10889,Rob Van Grouw Dairy,Visalia,Tulare,36.3871,-119.4016,32843 Road 76,2024,Mid (2000-3500),TRUE,18
+159,10859,Rainimade Dairy #1,Visalia,Tulare,36.4003,-119.2959,33640 Road 124,2066,Mid (2000-3500),FALSE,18
+160,11665,Lakeside Dairy,Hanford,Kings,36.2275,-119.6132,8180 KENT AVENUE,3467,Mid (2000-3500),TRUE,19
+161,11015,Hamstra Dairy Complex,Tulare,Tulare,36.2634,-119.4058,7590 Avenue 260,3329,Mid (2000-3500),TRUE,19
+162,10561,Curtimade Dairy,Tulare,Tulare,36.121,-119.5185,18337 Road 24,3300,Mid (2000-3500),TRUE,19
+163,10767,S & S Dairy,Visalia,Tulare,36.2815,-119.454,5311 Ave 272,3200,Mid (2000-3500),TRUE,19
+164,11662,Decade Dairy,TULARE,Tulare,36.2493,-119.5012,3313 AVENUE 256,2730,Mid (2000-3500),TRUE,19
+165,10657,Moonlight Dairy,Visalia,Tulare,36.293,-119.4599,4974 Avenue 272,2668,Mid (2000-3500),TRUE,19
+166,10386,Hollandia Farms Dairy,Hanford,Kings,36.2087,-119.5965,7905 Kansas Avenue,2466,Mid (2000-3500),TRUE,19
+167,11666,YOKUM DAIRY/DOUBLE L CATTLE COMPANY,HANFORD,Kings,36.1975,-119.6429,10234 LANSING AVENUE,2400,Mid (2000-3500),TRUE,19
+168,10162,Poplar Lane Dairy,Hanford,Kings,36.2249,-119.554,5387 Kent Avenue,2188,Mid (2000-3500),TRUE,19
+169,10608,Mattos Brothers Dairy,Hanford,Kings,36.2105,-119.5318,4017 Kansas Avenue,2100,Mid (2000-3500),TRUE,19
+170,10182,Diamond D LLC Dairy,Hanford,Kings,36.2688,-119.6261,9601 Idaho Avenue,3469,Mid (2000-3500),FALSE,19
+171,11686,Countryside Dairy,Corcoran,Kings,36.1654,-119.5307,4th Ave & Ave 208,3425,Mid (2000-3500),FALSE,19
+172,10885,Valley View Farms Dairy,Hanford,Kings,36.2449,-119.5555,15673 5 1/2 Avenue,3300,Mid (2000-3500),FALSE,19
+173,10688,Pacheco and Associates II Dairy,Tulare,Tulare,36.2563,-119.4451,5730 Avenue 256,2864,Mid (2000-3500),FALSE,19
+174,10560,Curti Family Inc.,Tulare,Tulare,36.1473,-119.4999,3235 Avenue 199,2600,Mid (2000-3500),FALSE,19
+175,10287,Four Star Dairy,Hanford,Kings,36.196,-119.5318,18886 4th Avenue,2390,Mid (2000-3500),FALSE,19
+176,10742,Richard Westra Dairy,Tulare,Tulare,36.2539,-119.4843,4070 Avenue 256,2174,Mid (2000-3500),FALSE,19
+177,10331,Gerben Leyendekker Dairy,Visalia,Tulare,36.4423,-119.3819,8200 Avenue 360,3340,Mid (2000-3500),TRUE,20
+178,10253,Elkhorn Dairy,Visalia,Tulare,36.4634,-119.3451,10400 Avenue 368,3286,Mid (2000-3500),TRUE,20
+179,10756,Rocky Road Dairies #1,Dinuba,Tulare,36.4562,-119.3816,8581 Avenue 368,2901,Mid (2000-3500),FALSE,20
+180,10898,South Corner Dairy,Visalia,Tulare,36.4458,-119.3895,8150 Avenue 360,2060,Mid (2000-3500),FALSE,20
+181,10864,Trinkler Dairy Farms,Ceres,Stanislaus,37.5327,-120.9955,7251 Crows Landing Road,3180,Mid (2000-3500),TRUE,21
+182,11646,Couco Creek Dairy,Turlock,Stanislaus,37.4613,-120.9078,3303 South Washington Road,3050,Mid (2000-3500),TRUE,21
+183,11272,Double D Dairy,Ceres,Stanislaus,37.526,-120.9538,2207 Roberts Road,2920,Mid (2000-3500),TRUE,21
+184,11442,Robert Gioletti & Sons Dairy,Turlock,Stanislaus,37.493,-120.9653,10213 West Main Street,3060,Mid (2000-3500),FALSE,21
+185,10334,GJ Silva,Turlock,Stanislaus,37.4654,-120.9353,3107 South Prairie Flower Road,2500,Mid (2000-3500),FALSE,21
+186,10944,Andrew Zylstra Dairy Inc. #1,Modesto,Stanislaus,37.5226,-121.0427,2655 West Monte Vista Avenue,2050,Mid (2000-3500),FALSE,21
+187,11346,Ahlem Farms Partnership,Hilmar,Merced,37.4119,-120.9269,24093 West American Avenue,3000,Mid (2000-3500),TRUE,22
+188,11124,"Wickstrom Jersey Farms, Inc.",Hilmar,Merced,37.3697,-120.8688,5638 Columbus Avenue,2400,Mid (2000-3500),TRUE,22
+189,11504,Clauss Dairy Farms,Hilmar,Merced,37.4049,-120.8778,21670 Bloss Avenue,2133,Mid (2000-3500),TRUE,22
+190,11532,James Ahlem Dairy,Hilmar,Merced,37.4253,-120.869,9483 Columbus Avenue,2100,Mid (2000-3500),TRUE,22
+191,11534,Vierra Dairy Farms,Hilmar,Merced,37.391,-120.9059,23160 Williams Avenue,3000,Mid (2000-3500),FALSE,22
+192,10383,"Hilmar Holsteins, Inc.",Hilmar,Merced,37.3822,-120.8845,21859 Crane Avenue,2200,Mid (2000-3500),FALSE,22
+193,10927,Valsigna Dairy,Hilmar,Merced,37.3765,-120.8424,6071 North Larson Avenue,2058,Mid (2000-3500),FALSE,22
+194,11533,Nylund Dairy Farms,Hilmar,Merced,37.397,-120.8582,20723 Geer Avenue,2050,Mid (2000-3500),FALSE,22
+195,10731,Rancho Teresita Dairy,Tulare,Tulare,36.1844,-119.2277,21744 Road 152,3500,Mid (2000-3500),TRUE,25
+196,11016,Bos Farms LP,Tulare,Tulare,36.1585,-119.2359,20397 Road 152,3479,Mid (2000-3500),TRUE,25
+197,10726,Skyline Dairy,Tulare,Tulare,36.1414,-119.218,15992 Avenue 192 Avenue,2440,Mid (2000-3500),FALSE,25
+198,10784,Sierra View Dairy,Tulare,Tulare,36.1983,-119.2739,13376 Avenue 224,2100,Mid (2000-3500),FALSE,25
+199,11069,De Jager Farms South,Chowchilla,Merced,37.1707,-120.3776,8002 South Bliss Road,2960,Mid (2000-3500),TRUE,26
+200,11530,Vista Verde Dairy,Chowchilla,Merced,37.1582,-120.3877,8923 Bliss Road,2960,Mid (2000-3500),TRUE,26
+201,11070,De Jager Dairy North #1,Chowchilla,Merced,37.1219,-120.4009,11375 South Ivy Avenue,2390,Mid (2000-3500),TRUE,26
+202,10869,Troost Dairy,Chowchilla,Madera,37.1088,-120.3896,24868 Road 9,2310,Mid (2000-3500),TRUE,26
+203,11071,De Jager Dairy #2 North,Chowchilla,Merced,37.1252,-120.4008,11140 South Ivy Avenue,3280,Mid (2000-3500),FALSE,26
+204,11335,Hidden Valley Dairy,Gustine,Merced,37.2762,-120.9854,870 Kniebes Road,2060,Mid (2000-3500),TRUE,27
+205,11332,Pires Dairy Farms,Gustine,Merced,37.2658,-120.9842,1622 Kniebes Road,3110,Mid (2000-3500),FALSE,27
+206,11198,Silveira Brothers Dairy #1,Newman,Merced,37.3046,-120.9939,27890 Brazo Road,2045,Mid (2000-3500),FALSE,27
